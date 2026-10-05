@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-
+//csak neked csak most 
 import java.util.Random;
 
 /**
