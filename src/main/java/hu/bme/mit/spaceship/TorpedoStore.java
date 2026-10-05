@@ -41,7 +41,7 @@ public class TorpedoStore {
     double r = generator.nextDouble();
 
       // successful firing
-      this.torpedoCount =- numberOfTorpedos;
+      this.torpedoCount -= numberOfTorpedos;
       success = true;
     } else {
       // simulated failure
